@@ -14,4 +14,4 @@ It is suggested to read the notebooks in the above order. You can also try the E
 ## Set up your notebook
 Open up this repository in [binder](https://mybinder.org/v2/gh/KF5012-AI2020/Practical4/master) to get started.
 
-If you have any questions, my email is matthew.higgs@northumbria.ac.uk
+If you have any questions, my email is daniel.organisciak@northumbria.ac.uk
