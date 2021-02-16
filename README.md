@@ -12,6 +12,6 @@ In [this practical](https://github.com/KF5012-AI2020/Practical4) you will be int
 It is suggested to read the notebooks in the above order. You can also try the Exercises while you read through the notebooks
 
 ## Set up your notebook
-Open up this repository in [binder](https://mybinder.org/v2/gh/KF5012-AI2020/Practical4/master) to get started.
+Open up this repository in [binder](https://gesis.mybinder.org/binder/v2/gh/KF5012-AI2021/Practical4/08902dc48eaebcadd0f40afa3fa57a46d7cb4128) to get started.
 
 If you have any questions, my email is daniel.organisciak@northumbria.ac.uk
